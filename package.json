@@ -4,13 +4,13 @@
     "private": true,
     "description": "Admin Portal for NITP",
     "main": "",
-    "scripts": {
-        "dev": "next",
-        "build": "next build",
-        "start": "node server.js",
-        "serve": "next start",
-        "prepare": "husky install"
-    },
+    // "scripts": {
+    //     "dev": "next",
+    //     "build": "next build",
+    //     "start": "node server.js",
+    //     "serve": "next start",
+    //     "prepare": "husky install"
+    // },
     "license": "ISC",
     "dependencies": {
         "@date-io/date-fns": "1.3.13",
