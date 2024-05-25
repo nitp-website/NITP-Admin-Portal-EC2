@@ -56,7 +56,7 @@ To get a local copy of the project up and running, follow these steps:
 
 Before running the application, you need to set up the necessary environment variables. Create a `.env` file in the root directory and add the following placeholders:
 
-```plaintext
+```bash
 NEXTAUTH_URL=http://localhost:81
 URL=http://localhost:81
 DOMAIN=http://localhost:81
